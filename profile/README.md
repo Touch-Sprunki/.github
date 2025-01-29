@@ -1,7 +1,7 @@
 ## Touch Sprunki Game Description
 Touch Sprunki (Touch Sprunkis) is an interactive mobile game that allows players to switch between various characters and engage with them through simple touch and click mechanics. This game is designed to provide a dynamic and immersive experience, where each character offers unique interactions and abilities.
 
-👉👉 Click to play [Touch Sprunki | Touch Sprunkis](https://scrunkly.cc/game/touch-sprunki)
+👉👉 Click to play [Touch Sprunki | Touch Sprunkis](https://sprunkly.org/game/touch-sprunki)
 
 ## Othcer Sprunki Games
 
