@@ -3,7 +3,7 @@ Touch Sprunki (Touch Sprunkis) is an interactive mobile game that allows players
 
 👉👉 Click to play [Touch Sprunki | Touch Sprunkis](https://sprunkly.org/game/touch-sprunki)
 
-## Othcer Sprunki Games
+## Other Sprunki Games
 
 [Sprunki Swap](https://scrunkly.cc/game/sprunki-swap-showcase)
 
